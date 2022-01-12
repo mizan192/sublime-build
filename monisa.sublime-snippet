@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+//Bismillahir Rahmanir Raheem,In the name of Almighty Allah(swt)
+//Mizanur Rahman -> miz1998an@gmail.com
+#include<bits/stdc++.h>
+using namespace std;
+#define sp " "
+#define nl "\n"
+#define ff first
+#define ss second
+#define pb push_back
+#define ll long long int
+#define lop(i,n) for(i=0;i<n;i++)
+
+int main()
+{
+	int i, j, n;
+
+
+
+
+
+
+
+
+	return 0;
+}
+
+
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>monisa</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
