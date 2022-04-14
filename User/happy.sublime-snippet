@@ -1,0 +1,43 @@
+<snippet>
+	<content><![CDATA[
+#include<bits/stdc++.h>
+using namespace std;
+#define sp " "
+#define nl "\n"
+#define mp make_pair
+#define pb push_back
+#define yess cout<<"YES\n"
+#define noo cout<<"NO\n"
+#define ll long long int
+#define lop(i,n) for(i=0;i<n;i++)
+
+void relax()
+{
+    int i, j, n;
+
+
+
+
+
+
+}
+
+int main()
+{
+    ios_base::sync_with_stdio(false); cin.tie(NULL);
+    int t = 1;
+    cin >> t;
+    while (t--) {
+        relax();
+
+    }
+
+
+    return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>happyCoder</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
